@@ -1,6 +1,6 @@
 # DeepLearning with PyTorch
  “Deep Learning with PyTorch: Zero to GANs”. 
- 
+ ![]()
 This course is taught by Jovian.ml, a project management and collaboration platform for machine learning.
 
 # Syllabus
